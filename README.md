@@ -8,6 +8,11 @@ The goal of a business analytic tool is to analyze and present actionable inform
 
 In eCommerce, a firm may only be interested in customers who signed up in the last two weeks and who made a purchase, which is an example of a specific cohort. A software developer may only care about the data from users who sign up after a certain upgrade, or who use certain features of the platform.
 
+### Types of cohorts
+- Time cohorts: Deals with grouping customers performing certain activities in a specific time.
+- Behavior cohort: Deals with grouping based on thier behaviour, for example buying a specific type of product or subscribing to a service
+- Size cohorts: Depends on amount of Money/Time customer invest on a specific product.
+
 #### In order to perform a proper cohort analysis, there are four main stages:
 
 - Determine what question you want to answer. The point of the analysis is to come up with actionable information on which to act in order to improve business, product, user experience, turnover, etc. To ensure that happens, it is important that the right question is asked. In the gaming example above, the company was unsure why they were losing revenue as lag time increased, despite the fact that users were still signing up and playing games.
