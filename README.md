@@ -49,4 +49,3 @@ The flow of this Analysis will be:
 
 - In the Last step, we will calculate various business metrics such as retention rate or Revenue Generated with respect to each Cohort and build a Cohort Chart using Heatmap to represent the results.
 
-- The final outcome i.e. The Cohort Chart will look like this:
