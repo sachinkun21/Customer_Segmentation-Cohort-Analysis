@@ -35,3 +35,18 @@ In eCommerce, a firm may only be interested in customers who signed up in the la
 - datetime objects
 - basic plotting with matplotlib or seaborn
 - basic knowledge of k-means clustering
+
+
+
+## 2. Problem Statement
+In this Data Tale, we will perform Time Cohort Analysis.
+Time based Cohort analysis groups the customer by the time they completed their first activity.
+
+The flow of this Analysis will be:
+- Segment customers into cohorts based on the month they made their first purchase in.
+-  We will then assign a cohort index to each purchase of all the customer. i.e we will mark each transaction based on that customers relative time period difference since his first purchase(Cohort he belongs to).
+- Cohort Index assigned  will represent months since the 1st transaction of that particular customer.
+
+- In the Last step, we will calculate various business metrics such as retention rate or Revenue Generated with respect to each Cohort and build a Cohort Chart using Heatmap to represent the results.
+
+- The final outcome i.e. The Cohort Chart will look like this:
